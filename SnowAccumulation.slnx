@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SnowAccumulation.Console/SnowAccumulation.Console.csproj" />
+    <Project Path="src/SnowAccumulation.Core/SnowAccumulation.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SnowAccumulation.Tests/SnowAccumulation.Tests.csproj" />
+  </Folder>
+</Solution>

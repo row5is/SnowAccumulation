@@ -1,0 +1,323 @@
+{
+  "location": {
+    "name": "Buffalo",
+    "region": "New York",
+    "country": "United States of America",
+    "lat": 42.89,
+    "lon": -78.88,
+    "tz_id": "America/New_York",
+    "localtime": "2026-02-21 10:00"
+  },
+  "forecast": {
+    "forecastday": [
+      {
+        "date": "2026-02-21",
+        "date_epoch": 1771545600,
+        "day": {
+          "maxtemp_c": -2.0,
+          "maxtemp_f": 28.4,
+          "mintemp_c": -8.0,
+          "mintemp_f": 17.6,
+          "totalsnow_cm": 15.0,
+          "daily_will_it_snow": 1,
+          "daily_chance_of_snow": 85,
+          "condition": {
+            "text": "Heavy snow",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/338.png",
+            "code": 1225
+          }
+        },
+        "hour": [
+          {
+            "time_epoch": 1771545600,
+            "time": "2026-02-21 00:00",
+            "temp_c": -5.0,
+            "temp_f": 23.0,
+            "snow_cm": 0.0,
+            "will_it_snow": 0,
+            "chance_of_snow": 10,
+            "wind_mph": 8.0,
+            "wind_kph": 12.9,
+            "condition": { "text": "Clear", "icon": "", "code": 1000 }
+          },
+          {
+            "time_epoch": 1771549200,
+            "time": "2026-02-21 01:00",
+            "temp_c": -5.5,
+            "temp_f": 22.1,
+            "snow_cm": 0.0,
+            "will_it_snow": 0,
+            "chance_of_snow": 15,
+            "wind_mph": 9.0,
+            "wind_kph": 14.5,
+            "condition": { "text": "Clear", "icon": "", "code": 1000 }
+          },
+          {
+            "time_epoch": 1771552800,
+            "time": "2026-02-21 02:00",
+            "temp_c": -6.0,
+            "temp_f": 21.2,
+            "snow_cm": 0.5,
+            "will_it_snow": 1,
+            "chance_of_snow": 40,
+            "wind_mph": 10.0,
+            "wind_kph": 16.1,
+            "condition": { "text": "Light snow", "icon": "", "code": 1213 }
+          },
+          {
+            "time_epoch": 1771556400,
+            "time": "2026-02-21 03:00",
+            "temp_c": -6.2,
+            "temp_f": 20.8,
+            "snow_cm": 1.0,
+            "will_it_snow": 1,
+            "chance_of_snow": 60,
+            "wind_mph": 12.0,
+            "wind_kph": 19.3,
+            "condition": { "text": "Moderate snow", "icon": "", "code": 1219 }
+          },
+          {
+            "time_epoch": 1771560000,
+            "time": "2026-02-21 04:00",
+            "temp_c": -6.5,
+            "temp_f": 20.3,
+            "snow_cm": 1.5,
+            "will_it_snow": 1,
+            "chance_of_snow": 75,
+            "wind_mph": 14.0,
+            "wind_kph": 22.5,
+            "condition": { "text": "Heavy snow", "icon": "", "code": 1225 }
+          },
+          {
+            "time_epoch": 1771563600,
+            "time": "2026-02-21 05:00",
+            "temp_c": -7.0,
+            "temp_f": 19.4,
+            "snow_cm": 2.0,
+            "will_it_snow": 1,
+            "chance_of_snow": 85,
+            "wind_mph": 15.0,
+            "wind_kph": 24.1,
+            "condition": { "text": "Heavy snow", "icon": "", "code": 1225 }
+          },
+          {
+            "time_epoch": 1771567200,
+            "time": "2026-02-21 06:00",
+            "temp_c": -7.2,
+            "temp_f": 19.0,
+            "snow_cm": 2.0,
+            "will_it_snow": 1,
+            "chance_of_snow": 85,
+            "wind_mph": 16.0,
+            "wind_kph": 25.7,
+            "condition": { "text": "Heavy snow", "icon": "", "code": 1225 }
+          },
+          {
+            "time_epoch": 1771570800,
+            "time": "2026-02-21 07:00",
+            "temp_c": -7.5,
+            "temp_f": 18.5,
+            "snow_cm": 1.5,
+            "will_it_snow": 1,
+            "chance_of_snow": 80,
+            "wind_mph": 14.0,
+            "wind_kph": 22.5,
+            "condition": { "text": "Heavy snow", "icon": "", "code": 1225 }
+          },
+          {
+            "time_epoch": 1771574400,
+            "time": "2026-02-21 08:00",
+            "temp_c": -7.0,
+            "temp_f": 19.4,
+            "snow_cm": 1.5,
+            "will_it_snow": 1,
+            "chance_of_snow": 75,
+            "wind_mph": 13.0,
+            "wind_kph": 20.9,
+            "condition": { "text": "Moderate snow", "icon": "", "code": 1219 }
+          },
+          {
+            "time_epoch": 1771578000,
+            "time": "2026-02-21 09:00",
+            "temp_c": -6.0,
+            "temp_f": 21.2,
+            "snow_cm": 1.0,
+            "will_it_snow": 1,
+            "chance_of_snow": 60,
+            "wind_mph": 11.0,
+            "wind_kph": 17.7,
+            "condition": { "text": "Moderate snow", "icon": "", "code": 1219 }
+          },
+          {
+            "time_epoch": 1771581600,
+            "time": "2026-02-21 10:00",
+            "temp_c": -5.0,
+            "temp_f": 23.0,
+            "snow_cm": 1.0,
+            "will_it_snow": 1,
+            "chance_of_snow": 55,
+            "wind_mph": 10.0,
+            "wind_kph": 16.1,
+            "condition": { "text": "Light snow", "icon": "", "code": 1213 }
+          },
+          {
+            "time_epoch": 1771585200,
+            "time": "2026-02-21 11:00",
+            "temp_c": -4.0,
+            "temp_f": 24.8,
+            "snow_cm": 0.5,
+            "will_it_snow": 1,
+            "chance_of_snow": 40,
+            "wind_mph": 9.0,
+            "wind_kph": 14.5,
+            "condition": { "text": "Light snow", "icon": "", "code": 1213 }
+          },
+          {
+            "time_epoch": 1771588800,
+            "time": "2026-02-21 12:00",
+            "temp_c": -3.0,
+            "temp_f": 26.6,
+            "snow_cm": 0.5,
+            "will_it_snow": 1,
+            "chance_of_snow": 35,
+            "wind_mph": 8.0,
+            "wind_kph": 12.9,
+            "condition": { "text": "Light snow", "icon": "", "code": 1213 }
+          },
+          {
+            "time_epoch": 1771592400,
+            "time": "2026-02-21 13:00",
+            "temp_c": -2.5,
+            "temp_f": 27.5,
+            "snow_cm": 0.5,
+            "will_it_snow": 1,
+            "chance_of_snow": 30,
+            "wind_mph": 7.0,
+            "wind_kph": 11.3,
+            "condition": { "text": "Light snow", "icon": "", "code": 1213 }
+          },
+          {
+            "time_epoch": 1771596000,
+            "time": "2026-02-21 14:00",
+            "temp_c": -2.0,
+            "temp_f": 28.4,
+            "snow_cm": 0.5,
+            "will_it_snow": 1,
+            "chance_of_snow": 25,
+            "wind_mph": 7.0,
+            "wind_kph": 11.3,
+            "condition": { "text": "Light snow", "icon": "", "code": 1213 }
+          },
+          {
+            "time_epoch": 1771599600,
+            "time": "2026-02-21 15:00",
+            "temp_c": -2.5,
+            "temp_f": 27.5,
+            "snow_cm": 0.5,
+            "will_it_snow": 1,
+            "chance_of_snow": 30,
+            "wind_mph": 8.0,
+            "wind_kph": 12.9,
+            "condition": { "text": "Light snow", "icon": "", "code": 1213 }
+          },
+          {
+            "time_epoch": 1771603200,
+            "time": "2026-02-21 16:00",
+            "temp_c": -3.0,
+            "temp_f": 26.6,
+            "snow_cm": 0.5,
+            "will_it_snow": 0,
+            "chance_of_snow": 20,
+            "wind_mph": 8.0,
+            "wind_kph": 12.9,
+            "condition": { "text": "Cloudy", "icon": "", "code": 1006 }
+          },
+          {
+            "time_epoch": 1771606800,
+            "time": "2026-02-21 17:00",
+            "temp_c": -4.0,
+            "temp_f": 24.8,
+            "snow_cm": 0.0,
+            "will_it_snow": 0,
+            "chance_of_snow": 15,
+            "wind_mph": 7.0,
+            "wind_kph": 11.3,
+            "condition": { "text": "Cloudy", "icon": "", "code": 1006 }
+          },
+          {
+            "time_epoch": 1771610400,
+            "time": "2026-02-21 18:00",
+            "temp_c": -5.0,
+            "temp_f": 23.0,
+            "snow_cm": 0.0,
+            "will_it_snow": 0,
+            "chance_of_snow": 10,
+            "wind_mph": 6.0,
+            "wind_kph": 9.7,
+            "condition": { "text": "Clear", "icon": "", "code": 1000 }
+          },
+          {
+            "time_epoch": 1771614000,
+            "time": "2026-02-21 19:00",
+            "temp_c": -5.5,
+            "temp_f": 22.1,
+            "snow_cm": 0.0,
+            "will_it_snow": 0,
+            "chance_of_snow": 5,
+            "wind_mph": 5.0,
+            "wind_kph": 8.0,
+            "condition": { "text": "Clear", "icon": "", "code": 1000 }
+          },
+          {
+            "time_epoch": 1771617600,
+            "time": "2026-02-21 20:00",
+            "temp_c": -6.0,
+            "temp_f": 21.2,
+            "snow_cm": 0.0,
+            "will_it_snow": 0,
+            "chance_of_snow": 5,
+            "wind_mph": 5.0,
+            "wind_kph": 8.0,
+            "condition": { "text": "Clear", "icon": "", "code": 1000 }
+          },
+          {
+            "time_epoch": 1771621200,
+            "time": "2026-02-21 21:00",
+            "temp_c": -6.5,
+            "temp_f": 20.3,
+            "snow_cm": 0.0,
+            "will_it_snow": 0,
+            "chance_of_snow": 5,
+            "wind_mph": 4.0,
+            "wind_kph": 6.4,
+            "condition": { "text": "Clear", "icon": "", "code": 1000 }
+          },
+          {
+            "time_epoch": 1771624800,
+            "time": "2026-02-21 22:00",
+            "temp_c": -7.0,
+            "temp_f": 19.4,
+            "snow_cm": 0.0,
+            "will_it_snow": 0,
+            "chance_of_snow": 5,
+            "wind_mph": 4.0,
+            "wind_kph": 6.4,
+            "condition": { "text": "Clear", "icon": "", "code": 1000 }
+          },
+          {
+            "time_epoch": 1771628400,
+            "time": "2026-02-21 23:00",
+            "temp_c": -8.0,
+            "temp_f": 17.6,
+            "snow_cm": 0.0,
+            "will_it_snow": 0,
+            "chance_of_snow": 5,
+            "wind_mph": 3.0,
+            "wind_kph": 4.8,
+            "condition": { "text": "Clear", "icon": "", "code": 1000 }
+          }
+        ]
+      }
+    ]
+  }
+}

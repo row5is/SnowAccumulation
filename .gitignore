@@ -1,0 +1,31 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+*.nupkg
+
+# IDE
+.vs/
+.vscode/
+*.sln.DotSettings.user
+
+# User secrets (never commit API keys)
+secrets.json
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Build
+publish/
+out/
+
+# Media/non-code files
+*.webm
+*.png
