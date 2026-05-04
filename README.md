@@ -4,6 +4,11 @@ A .NET 9 command-line application that estimates snow accumulation at a given ad
 
 Powered by [WeatherAPI.com](https://www.weatherapi.com/) and [Spectre.Console](https://spectreconsole.net/).
 
+## AI Generated
+
+This was a live demo of how to create a console app from scratch using githob copilot and the *plan* skill. Look at the [problemdescription.md]() to see how we got started.
+
+
 ## Features
 
 - **Snow forecast** — retrieves a 3-day hourly snow accumulation forecast for any address, city, zip code, or lat/lon coordinates
