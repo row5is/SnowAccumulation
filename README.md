@@ -6,7 +6,7 @@ Powered by [WeatherAPI.com](https://www.weatherapi.com/) and [Spectre.Console](h
 
 ## AI Generated
 
-This was a live demo of how to create a console app from scratch using githob copilot and the *plan* skill. Look at the [problemdescription.md]() to see how we got started.
+This was a live demo of how to create a console app from scratch using githob copilot and the *plan* skill. Look at the [problemdescription.md](https://github.com/row5is/SnowAccumulation/blob/master/problemdescription.md) to see how we got started.
 
 
 ## Features
